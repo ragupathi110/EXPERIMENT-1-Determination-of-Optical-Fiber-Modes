@@ -1,6 +1,7 @@
 
 # Exp 1 Mode Characteristics of Fiber Optic Cable
-
+# Name : Ragupathi Raj M
+# Reg:No :212222060185
 ## 🎯 AIM
 To study the mode characteristics of fiber optic cable and observe the lower order Linearly Polarized (LP) modes.
 
